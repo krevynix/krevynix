@@ -1,5 +1,7 @@
 👋 Hi, I'm krevynix !
+
 🚀 Bridging Technology, Business, and People
+
 My mission is to create solutions that empower individuals, businesses, and communities.
 
 🌟 About Me
