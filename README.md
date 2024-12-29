@@ -6,7 +6,7 @@ My mission is to create solutions that empower individuals, businesses, and comm
 
 🌟 About Me
 * 🎯 Multidisciplinary Expertise: From humans to tech, I combine the best of both worlds to build tools that resonate with users and drive value.
-* 🌐 Tech Stack Mastery: Experienced in MERN stack, AI tools, and UI/UX design. I create full-stack applications that are user-focused and scalable.
+* 🌐 Tech Stack Mastery: Experienced in React-Native ,Swift () , AI tools, and UI/UX design. I create full-stack applications that are user-focused and scalable.
 * 🧠 Lifelong Learner: I constantly expand my skill set to stay ahead in an ever-evolving tech landscape.
 * 📊 Strategic Visionary: I utilize my analytical and business background to develop solutions that solve real-world problems efficiently.
 
