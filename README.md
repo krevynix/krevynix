@@ -11,7 +11,7 @@ My mission is to create solutions that empower individuals, businesses, and comm
 * 📊 Strategic Visionary: I utilize my analytical and business background to develop solutions that solve real-world problems efficiently.
 
 📈 Core Competencies
-* Tech & Coding: MERN, React Native, TensorFlow, and Firebase.
+* Tech & Coding: HTML . Css , Js , React Native, ,Swift (), and Firebase.
 * People & Business: Leadership, talent management, and strategic planning.
 * Creativity: Unique app ideas (e.g., Eventraze,Veydrion) with an entrepreneurial flair.
 * Languages: Fluent in Arabic and English; learning Spanish.
@@ -37,9 +37,3 @@ I’m open to:
 🌟 Fun Fact
 I’m inspired by the futuristic potential of AI and productivity tools, blending psychology and human behavior to make tech more intuitive and impactful.
 Follow me to stay updated on my journey and join me in making technology work for everyone!
-
-
-
-
-
-
